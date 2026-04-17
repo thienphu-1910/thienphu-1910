@@ -34,4 +34,4 @@ I am Truong Cong Thien Phu, and I am currently studying software engineering at 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Jira-%23afccde?style=flat&logo=jira&logoColor=blue)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=thienphu-1910&count_private=true&show_icons=true&include_all_commits=true)
+![thienphu-1910's GitHub stats](https://github-readme-stats.vercel.app/api?username=thienphu-1910&show_icons=true&theme=tokyonight)
