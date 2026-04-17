@@ -5,7 +5,6 @@ I am Truong Cong Thien Phu, and I am currently studying software engineering at 
 <a href="https://www.linkedin.com/in/phutruong1910/">
   <img src="https://img.shields.io/badge/-phutruong1910-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-![LinkedIn](https://img.shields.io/badge/-Ph%C3%BA%20Tr%C6%B0%C6%A1ng%20C%C3%B4ng%20Thi%C3%AAn-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fphutruong1910%2F)
 <a href="mailto:truongcongthienphu1910.work@gmail.com">
   <img src="https://img.shields.io/badge/-truongcongthienphu1910.work@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
