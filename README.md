@@ -3,7 +3,7 @@
 Hi, I am Truong Cong Thien Phu, a Software Engineering student at [University of Science - VNU HCM](https://hcmus.edu.vn). As a Full-Stack Developer, I focus on building scalable, pragmatic web applications using the MERN/PERN stack. Feel free to connect with me here:
 
 <a href="https://www.linkedin.com/in/phutruong1910/">
-  <img src="https://img.shields.io/badge/-phutruong1910-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/-Phu%20Truong%20Cong%20Thien-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:truongcongthienphu1910.work@gmail.com">
   <img src="https://img.shields.io/badge/-truongcongthienphu1910.work@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
