@@ -40,4 +40,7 @@ Hi, I am Truong Cong Thien Phu, a Software Engineering student at [University of
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![SonarQube Cloud](https://img.shields.io/badge/-SonarQube%20Cloud-%23126ED3?style=flat&logo=sonarqubecloud&logoColor=white)
 
+![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/-Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+
 ![thienphu-1910's GitHub stats](https://github-readme-stats.vercel.app/api?username=thienphu-1910&show_icons=true&theme=tokyonight)
