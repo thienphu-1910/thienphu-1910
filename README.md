@@ -39,6 +39,7 @@ Hi, I am Truong Cong Thien Phu, a Software Engineering student at [University of
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![SonarQube Cloud](https://img.shields.io/badge/-SonarQube%20Cloud-%23126ED3?style=flat&logo=sonarqubecloud&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-%233FCF8E?style=flat&logo=supabase&logoColor=white)
 
 ![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/-Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
