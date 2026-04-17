@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Truong Cong Thien Phu, and I am currently studying software engineering at the [University of Science - VNU HCM]([https://utdallas.edu/](https://hcmus.edu.vn)). I am an aspiring learner with hands-on project experience in web development. Feel free to connect with me here:
+Hi, I am Truong Cong Thien Phu, a Software Engineering student at [University of Science - VNU HCM](https://hcmus.edu.vn). As a Full-Stack Developer, I focus on building scalable, pragmatic web applications using the MERN/PERN stack. Feel free to connect with me here:
 
 <a href="https://www.linkedin.com/in/phutruong1910/">
   <img src="https://img.shields.io/badge/-phutruong1910-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
