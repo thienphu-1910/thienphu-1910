@@ -43,5 +43,3 @@ Hi, I am Truong Cong Thien Phu, a Software Engineering student at [University of
 
 ![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Google Antigravity](https://img.shields.io/badge/-Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
-
-![thienphu-1910's GitHub stats](https://github-readme-stats.vercel.app/api?username=thienphu-1910&show_icons=true&theme=tokyonight)
